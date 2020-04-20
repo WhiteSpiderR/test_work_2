@@ -23,7 +23,7 @@ class RedirectKeywords(CommonKeywords):
         headers = {'Content-Type': 'text/plain'}
         response = requests.get(url=f'{CC.BASE_URL}{RC.REDIRECT_URL}/{n}',
                                 headers=headers)
-        return response.text
+        return json.loads(response.text)
 
     def check_redirect_response(self, get_redirect_response):
         """
