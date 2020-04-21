@@ -1,0 +1,6 @@
+
+На странице: https://www.avito.ru/rossiya/transport?cd=1 не совпадает canonical: https://www.avito.ru/rossiya/transport?cd=1 != https://www.avito.ru/rossiya/transport
+На странице: https://www.avito.ru/rossiya/transport?cd=1 не совпадает canonical: https://www.avito.ru/rossiya/transport?cd=1 != https://www.avito.ru/rossiya/transport
+На странице: https://www.avito.ru/rossiya/nedvizhimost?cd=1 не совпадает canonical: https://www.avito.ru/rossiya/nedvizhimost?cd=1 != https://www.avito.ru/rossiya/nedvizhimost
+На странице: https://www.avito.ru/rossiya/rabota?cd=1 не совпадает canonical: https://www.avito.ru/rossiya/rabota?cd=1 != https://www.avito.ru/rossiya/rabota
+На странице: https://www.avito.ru/rossiya/predlozheniya_uslug?cd=1 не совпадает canonical: https://www.avito.ru/rossiya/predlozheniya_uslug?cd=1 != https://www.avito.ru/rossiya/predlozheniya_uslug
